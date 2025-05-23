@@ -1,0 +1,2 @@
+Esse arquivo só existe para preencher um espaço vazio nesta pasta e ela não ser deletada.
+Futuramente, este arquivo será removido e será substituído por scripts de JavaScript.
