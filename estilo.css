@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    justify-content: center;   
+    align-items: center;       
+    height: 100vh;             
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    background-color: purple;
+}
+
+p .autor{
+    background-color: blue;
+    color: white;
+    display: flex;
+    padding: 30px;
+}
+
+div .decoracao-autor{
+    display: flex;
+    background-color: rgb(25, 245, 24);
+    border-radius: 10px;
+    width: auto;
+}
