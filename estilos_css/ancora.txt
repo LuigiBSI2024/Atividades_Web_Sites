@@ -1,0 +1,2 @@
+Esse arquivo somente existe para que essa pasta possa existir e esse espaço possa
+ser usado futuramente para servir como pastas de estilos ".css".
